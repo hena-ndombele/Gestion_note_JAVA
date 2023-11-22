@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">EasySchool</string>
+    <string name="text_title">EASY SHOOL</string>
+    <string name="open_nav">Menu</string>
+    <string name="close_nav">close Menu</string>
+    <string name="text_authentification">S\'authentifier</string>
+    <string name="text_connect">Se connecter</string>
+    <string name="text_pasCompte">Vous n\'avez pas de compte?</string>
+    <string name="text_creerCompte">Créer mon compte</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Mot de passe</string>
+    <string name="text_password_ancien">Ancien mot de passe</string>
+    <string name="text_password_nouveau">Nouveau mot de passe</string>
+    <string name="text_gestion">Pour la gestion des notes de vos étudiants</string>
+    <string name="text_password_confirmer">Confirmer nouveau mot de passe</string>
+    <string name="text_prenom">Prénom</string>
+    <string name="text_nom">Nom</string>
+    <string name="text_postnom">Postnom</string>
+    <string name="text_assistant">ASSISTANTS</string>
+    <string name="text_tableau">TABLEAU DE BORD</string>
+    <string name="text_annee">Année Academique</string>
+    <string name="text_annee_ac">2022-2023</string>
+    <string name="text_cour">COURS</string>
+    <string name="text_etudiant">Etudiants</string>
+    <string name="text_deconnexion">Deconnexion</string>
+    <string name="text_profil">Profil</string>
+    <string name="text_apropos">A propos</string>
+    <string name="text_prof">Je suis professeur</string>
+    <string name="text_etudiants">Je suis étudiant(e)</string>
+    <string name="text_passwordconfirmed">Confirmer mot de passe</string>
+    <string name="text_dejacompte">Vous avez déjà un compte?</string>
+    <string name="text_changer_password">Changer mon mot de passe</string>
+    <string name="text_reinitialiser">Réinitialiser mon mot de passe</string>
+    <string name="text_passwordoblie">Mot de passe oublié?</string>
+    <string name="text_choix">Se connecter</string>
+    <string name="text_tant">en tant que.</string>
+    <string name="text_dec">Se deconnecter</string>
+    <string name="text_aide">Aide</string>
+    <string name="text_intro">Une application qui vous permet de gérer les notes de vos étudiants, Ainsi que qu\'aux étudiants de visualiser leur notes.</string>
+</resources>
